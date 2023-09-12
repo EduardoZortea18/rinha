@@ -1,0 +1,25 @@
+{
+    "name": "src/functions/Source.rinha",
+    "expression": {
+        "kind": "Print",
+        "value": {
+            "kind": "Str",
+            "value": "realmente uma rinha",
+            "location": {
+                "start": 6,
+                "end": 27,
+                "filename": "src/functions/Source.rinha"
+            }
+        },
+        "location": {
+            "start": 0,
+            "end": 28,
+            "filename": "src/functions/Source.rinha"
+        }
+    },
+    "location": {
+        "start": 0,
+        "end": 28,
+        "filename": "src/functions/Source.rinha"
+    }
+}

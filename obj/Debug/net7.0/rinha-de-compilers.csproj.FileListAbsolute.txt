@@ -1,0 +1,15 @@
+/home/zortea/Projects/rinha/rinha-de-compilers/obj/Debug/net7.0/rinha-de-compilers.csproj.AssemblyReference.cache
+/home/zortea/Projects/rinha/rinha-de-compilers/obj/Debug/net7.0/rinha-de-compilers.GeneratedMSBuildEditorConfig.editorconfig
+/home/zortea/Projects/rinha/rinha-de-compilers/obj/Debug/net7.0/rinha-de-compilers.AssemblyInfoInputs.cache
+/home/zortea/Projects/rinha/rinha-de-compilers/obj/Debug/net7.0/rinha-de-compilers.AssemblyInfo.cs
+/home/zortea/Projects/rinha/rinha-de-compilers/obj/Debug/net7.0/rinha-de-compilers.csproj.CoreCompileInputs.cache
+/home/zortea/Projects/rinha/rinha-de-compilers/bin/Debug/net7.0/rinha-de-compilers
+/home/zortea/Projects/rinha/rinha-de-compilers/bin/Debug/net7.0/rinha-de-compilers.deps.json
+/home/zortea/Projects/rinha/rinha-de-compilers/bin/Debug/net7.0/rinha-de-compilers.runtimeconfig.json
+/home/zortea/Projects/rinha/rinha-de-compilers/bin/Debug/net7.0/rinha-de-compilers.dll
+/home/zortea/Projects/rinha/rinha-de-compilers/bin/Debug/net7.0/rinha-de-compilers.pdb
+/home/zortea/Projects/rinha/rinha-de-compilers/obj/Debug/net7.0/rinha-de-compilers.dll
+/home/zortea/Projects/rinha/rinha-de-compilers/obj/Debug/net7.0/refint/rinha-de-compilers.dll
+/home/zortea/Projects/rinha/rinha-de-compilers/obj/Debug/net7.0/rinha-de-compilers.pdb
+/home/zortea/Projects/rinha/rinha-de-compilers/obj/Debug/net7.0/rinha-de-compilers.genruntimeconfig.cache
+/home/zortea/Projects/rinha/rinha-de-compilers/obj/Debug/net7.0/ref/rinha-de-compilers.dll
